@@ -6,7 +6,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andcoelho&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">   
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+ <img align="right" height="150" src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif">
 </div>
  
  ##
