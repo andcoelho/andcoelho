@@ -1,7 +1,7 @@
 ## Olá! eu sou o Anderson Coelho 👋 
 
-- 💻 Bootcamp FullStack Java Jr - Generation Brasil
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFSP
+#### - 💻 Bootcamp FullStack Java Jr - Generation Brasil
+#### - 🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFSP
 ##
 
  <div>
