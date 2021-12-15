@@ -2,7 +2,6 @@
 
 #### - 💻 Bootcamp FullStack Java Jr - Generation Brasil
 #### - 🎓 Estudante de Análise e Desenvolvimento de Sistemas - IFSP
-#### - ✔ #opentowork
 #### - 🎵 Guitar player 🎸
 
 ##
