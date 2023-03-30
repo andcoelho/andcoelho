@@ -1,7 +1,7 @@
 ## Olá! eu sou o Anderson Coelho 👋 
 
 #### - 💻 Bootcamp FullStack Java Jr - Generation Brasil
-#### - 🎓 Estudante de Análise e Desenvolvimento de Sistemas - FATEC
+#### - 🎓 Análise e Desenvolvimento de Sistemas - FATEC
 #### - 💼 Suporte TI
 #### - 🌱 Aprendendo C# .Net
 #### - 🎵 Guitar player 🎸
