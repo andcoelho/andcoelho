@@ -2,7 +2,7 @@
 
 #### - 💻 Bootcamp FullStack Java Jr - Generation Brasil
 #### - 🎓 Análise e Desenvolvimento de Sistemas - FATEC
-#### - 💼 Suporte TI
+#### - 💼 Dev Jr
 #### - 🌱 Aprendendo C# .Net
 #### - 🎵 Guitar player 🎸
 
